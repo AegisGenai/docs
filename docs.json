@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Aegisgen AI Documentation",
+  "name": "Aegisgen AI",
   "colors": {
     "primary": "#825CFF",
     "light": "#825CFF",
