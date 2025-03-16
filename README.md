@@ -1,6 +1,6 @@
-# Mintlify Starter Kit
+# Aegisgen AI Documentation
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+This documentation contains comprehensive guides and information about Aegisgen AI, including:
 
 - Guide pages
 - Navigation
