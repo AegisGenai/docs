@@ -1,12 +1,15 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "name": "Aegisgen AI",
+  "description": "",
   "theme": "mint",
-  "name": "k",
+
+
   "colors": {
     "primary": "#825CFF",
     "light": "#825CFF",
     "dark": "#825CFF"
   },
+
   
 
   "navigation": {
@@ -18,7 +21,7 @@
             "group": "Aegisgen AI",
             "pages": [
               "introduction",
-              "AIAgentCreation",
+              "AgentCreation",
               "UsefulLinks"
             ]
           },
@@ -38,9 +41,10 @@
       }
     ]
   },
+  "favicon": "./logo/favicon.png",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/AegisgenAiLogolight.png",
+    "dark": "/logo/AegisgenAiLogoDark.png"
   },
   "footer": {
     "socials": {
