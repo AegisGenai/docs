@@ -3,14 +3,11 @@
   "description": "",
   "theme": "mint",
 
-
   "colors": {
     "primary": "#825CFF",
     "light": "#825CFF",
     "dark": "#825CFF"
   },
-
-  
 
   "navigation": {
     "tabs": [
@@ -19,11 +16,7 @@
         "groups": [
           {
             "group": "Aegisgen AI",
-            "pages": [
-              "introduction",
-              "AgentCreation",
-              "UsefulLinks"
-            ]
+            "pages": ["introduction", "AgentCreation", "UsefulLinks"]
           },
           {
             "group": "Features",
@@ -48,9 +41,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/aegisgen",
-      "github": "https://github.com/aegisgen",
-      "linkedin": "https://linkedin.com/company/aegisgen"
+      "telegram": "https://t.me/AegisGenAi",
+      "website": "https://aegisgenai.com/",
+      "x": "https://twitter.com/AegisGenAi",
+      "earth-americas": "https://docs.aegisgenai.com/introduction"
     }
   }
 }
